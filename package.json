@@ -1,6 +1,9 @@
 {
   "name": "breads",
   "version": "1.0.0",
+  "engines": {
+    "node": "v16.14.2"
+  },
   "description": "Server Side Rendering",
   "main": "server.js",
   "scripts": {
